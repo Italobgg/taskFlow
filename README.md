@@ -10,7 +10,6 @@ Um gerenciador de tarefas moderno e intuitivo.
 ## 🚀 Deploy
 
 Acesse a aplicação online:
-
 🔗 **[https://task-flow-by-italobgg.vercel.app/](https://task-flow-by-italobgg.vercel.app/)**
 
 
