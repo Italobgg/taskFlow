@@ -99,7 +99,7 @@ function App() {
               rel="noopener noreferrer"
               className="text-primary-600 hover:underline"
             >
-              Seu Nome
+              Italobgg
             </a>
           </p>
         </footer>
