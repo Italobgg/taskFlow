@@ -7,6 +7,13 @@ Um gerenciador de tarefas moderno e intuitivo.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-6.2-646CFF?style=flat-square&logo=vite&logoColor=white)
 
+## 🚀 Deploy
+
+Acesse a aplicação online:
+
+🔗 **[https://task-flow-by-italobgg.vercel.app/](https://task-flow-by-italobgg.vercel.app/)**
+
+
 ## ✨ Funcionalidades
 
 - ➕ Criar, editar e excluir tarefas
