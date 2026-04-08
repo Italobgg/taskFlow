@@ -73,10 +73,6 @@ export function useTasks() {
     );
   }, [setTasks]);
 
-  // ============================================
-  // DADOS DERIVADOS (calculados a partir do estado)
-  // ============================================
-
   /**
    * Lista de tarefas filtrada pelo status selecionado
    * useMemo evita recalcular em toda renderização

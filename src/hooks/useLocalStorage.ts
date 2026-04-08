@@ -11,8 +11,6 @@ import { useState, useEffect } from 'react';
  * const [name, setName] = useLocalStorage('userName', 'Visitante');
  */
 export function useLocalStorage<T>(key: string, initialValue: T) {
-  // Função que roda apenas na inicialização
-  // Tenta ler do localStorage, senão usa o valor inicial
   const [storedValue, setStoredValue] = useState<T>(() => {
     try {
       const item = window.localStorage.getItem(key);
