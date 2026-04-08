@@ -8,9 +8,8 @@ Um gerenciador de tarefas moderno e intuitivo.
 ![Vite](https://img.shields.io/badge/Vite-6.2-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ## 🚀 Deploy
-## Acesse a aplicação online:
-
-## 🔗 **[https://task-flow-by-italobgg.vercel.app/](https://task-flow-by-italobgg.vercel.app/)**
+### Acesse a aplicação online:
+### 🔗 **[https://task-flow-by-italobgg.vercel.app/](https://task-flow-by-italobgg.vercel.app/)**
 
 
 ## ✨ Funcionalidades
