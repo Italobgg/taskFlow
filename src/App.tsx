@@ -94,7 +94,7 @@ function App() {
           <p>
             Feito com 💙 por{' '}
             <a
-              href="https://github.com/seu-usuario"
+              href="https://github.com/Italobgg"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary-600 hover:underline"
